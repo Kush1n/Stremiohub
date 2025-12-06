@@ -29,4 +29,3 @@ if ($ok) {
     header("Location: listar.php?erro=Falha ao excluir usuário");
     exit;
 }
-     
